@@ -1,0 +1,14 @@
+host=smtp.qq.com
+user=mail@dream.ren
+password=fluybgrtbfmhbdid
+from=mail@dream.ren
+fromName=会议管理系统
+
+ftpserverhost=115.159.96.224
+ftpadminuser=mmsdocuser
+ftpadminpsw=mmsdocuser
+port=21
+
+MySQLhost=jdbc:mysql://115.159.116.106/meeting_management_system?characterEncoding=utf-8
+MySQLadminuser=test
+MySQLadminpsw=123456
